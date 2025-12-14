@@ -2,7 +2,7 @@
 
 # telegram bot paramets
 TOKEN=''
-CHAT_ID='1181758980'
+CHAT_ID=''
 
 # geting RAM CPU DISK usage
 FreeRAM=$(free -mt | grep Total | grep -Po '[0-9]+$')
