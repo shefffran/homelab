@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # telegram bot paramets
-TOKEN='8438174635:AAFzUi6k6VtmJR2XF1kc9i2Q_s5Qha0BJ94'
+TOKEN=''
 CHAT_ID='1181758980'
 
 # geting RAM CPU DISK usage
